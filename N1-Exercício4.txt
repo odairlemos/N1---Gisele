@@ -1,0 +1,3 @@
+Decorator provê uma maneira simples de modificar o comportamento de uma função sem necessariamente alterá-la.
+Padrões de projeto são boas práticas para a solução de problemas, e podem 
+ser facilmente utilizados com linguagens orientadas a objetos
